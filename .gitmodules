@@ -1,0 +1,6 @@
+[submodule "https:/github.com/asmee-prabhu/Surrogate-Model-for-Coverage-Dependent-Surface-Free-Energies-.git"]
+	path = https:/github.com/asmee-prabhu/Surrogate-Model-for-Coverage-Dependent-Surface-Free-Energies-.git
+	url = https://github.com/asmee-prabhu/Phase-Diagram-Configurations.git
+[submodule "https:/github.com/asmee-prabhu/Surrogate-Model-for-Coverage-Dependent-Surface-Free-Energies/PhaseDiagram-.git"]
+	path = https:/github.com/asmee-prabhu/Surrogate-Model-for-Coverage-Dependent-Surface-Free-Energies/PhaseDiagram-.git
+	url = https://github.com/asmee-prabhu/Phase-Diagram-Configurations.git
